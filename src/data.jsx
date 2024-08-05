@@ -169,7 +169,7 @@ export const resume = [
     id: 6,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '04/2023 - 06/2023',
+    year: '01/2023 - 03/2023',
     title: 'Front-end Developer <span> Intuitive Interface Project for Quick Queries </span>',
     desc: 'I developed the main page of a website that interacts with an external API to provide dynamic responses to user queries.',
   },
