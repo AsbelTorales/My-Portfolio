@@ -119,26 +119,73 @@ export const stats = [
 ];
 
 export const resume = [
+
   {
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '02/2024 - 05/2024',
-    title: 'FullStack Developer <span> Ecommerce Manos a la obra </span>',
-    desc: 'I developed an e-commerce platform for artisans and independent artists, using technologies such as Figma, JavaScript, CSS, Bootstrap, HTML, Java, and MySQL, managing the project with Jira and the SCRUM methodology.',
+    year: '08/2029 - 02/2022',
+    title: 'Full-stack Developer <span> Notes Pages Project </span>',
+    desc: 'I developed a notes system on the main page of a website.',
   },
 
   {
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '08/2029 - 02/2022',
+    year: '02/2024 - 08/2024',
+    title: 'FullStack Developer <span> Ecommerce Manos a la obra </span>',
+    desc: 'I developed an e-commerce platform for artisans and independent artists, using technologies such as Figma, JavaScript, CSS, Bootstrap, HTML, Java, and MySQL, managing the project with Jira and the SCRUM methodology.',
+  },
+
+  {
+    id: 3,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: '11/2023 - 01/2024',
+    title: 'Front-end Developer <span> Webside Design CDMX </span>',
+    desc: 'I developed the main page of a website dedicated to promoting tourist destinations in Mexico City, improving the user experience.',
+  },
+  
+  {
+    id: 4,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: '07/2023 - 12/2023',
+    title: 'Front-end Developer <span> VigíaVial Project </span>',
+    desc: 'I developed the front-end of an intuitive and functional mobile application that allows cyclists and pedestrians to report violations quickly, improving safety and order on the roads.',
+  },
+
+  {
+    id: 5,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: '04/2023 - 06/2023',
+    title: 'Front-end Developer <span> Astral Chart Consultation Project </span>',
+    desc: 'I developed the main page of a website specialized in astrological chart consultations.',
+  },
+
+  {
+    id: 6,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: '04/2023 - 06/2023',
+    title: 'Front-end Developer <span> Intuitive Interface Project for Quick Queries </span>',
+    desc: 'I developed the main page of a website that interacts with an external API to provide dynamic responses to user queries.',
+  },
+
+
+  {
+    id: 7,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: '08/2019 - 02/2022',
     title: 'Project Assistant <span> Water Center for Latin America and the Caribbean </span>',
     desc: 'I analyzed historical water sector data in northern Mexico, assessing water security risks and managing the project in a team using Jira.',
   },
 
   {
-    id: 3,
+    id: 8,
     category: 'experience',
     icon: <FaBriefcase />,
     year: '02/2019 - 08/2019',
@@ -147,7 +194,34 @@ export const resume = [
   },
 
   {
-    id: 4,
+    id: 9,
+    category: 'education',
+    icon: <FaGraduationCap />,
+    year: '2024',
+    title: 'Java FullStack Developer <span> AIFYC Institute Texas </span>',
+    desc: 'FullStack Java Developer',
+  },
+
+  {
+    id: 10,
+    category: 'education',
+    icon: <FaGraduationCap />,
+    year: '2024',
+    title: 'Essential React <span> LinkenIn Learning </span>',
+    desc: 'Create web applications with react',
+  },
+
+  {
+    id: 11,
+    category: 'education',
+    icon: <FaGraduationCap />,
+    year: '2024',
+    title: 'React JS <span> Udemy </span>',
+    desc: 'Create web applications with react',
+  },
+
+  {
+    id: 12,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2024',
@@ -156,7 +230,7 @@ export const resume = [
   },
 
   {
-    id: 5,
+    id: 13,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2024',
@@ -165,7 +239,7 @@ export const resume = [
   },
 
   {
-    id: 6,
+    id: 14,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2023',
@@ -174,7 +248,16 @@ export const resume = [
   },
 
   {
-    id: 7,
+    id: 15,
+    category: 'education',
+    icon: <FaGraduationCap />,
+    year: '2023',
+    title: 'AWS Discovery Day: Introducción a la nube y servicios de AWS <span> Agencia Digital de Innovación Pública </span>',
+    desc: 'Nube y servicios AWS',
+  },
+
+  {
+    id: 16,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2020',
@@ -223,7 +306,7 @@ export const skills = [
   {
     id: 7,
     title: 'Java',
-    percentage: '45',
+    percentage: '50',
   },
 
   {
@@ -268,7 +351,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Main page of a website dedicated to promoting tourist destinations in CDMX,',
+        desc: 'Main page of a website dedicated to promoting tourist destinations in CDMX.',
       },
       {
         icon: <FiUser />,
@@ -296,7 +379,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'E-commerce platform dedicated to providing artisans and independent artists with access to a digital platform to sell their products.',
+        desc: 'E-commerce platform.',
       },
       {
         icon: <FiUser />,
@@ -324,7 +407,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'App "VigíaVial", this app is intended for cyclists and pedestrians, allowing them to report civic violations by motorists.',
+        desc: 'App is intended for cyclists and pedestrians, allowing them to report civic violations.',
       },
       {
         icon: <FiUser />,
@@ -352,12 +435,12 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Note system for the home page of a website. Integrating a news API to display data in cards, improving user experience.',
+        desc: 'Note system for the home page of a website.',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Autónomo',
+        desc: 'Freelance',
       },
       {
         icon: <FaCode />,
@@ -383,7 +466,7 @@ export const portfolio = [
       },
       {
         title: 'Client : ',
-        desc: '',
+        desc: 'Freelance',
       },
       {
         title: 'Language : ',
@@ -391,7 +474,7 @@ export const portfolio = [
       },
       {
         title: 'Preview : ',
-        desc: '',
+        desc: 'Portfolio',
       },
     ],
   },
@@ -404,12 +487,12 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'The main page of a website that interacts with an external API to provide dynamic responses to user queries.',
+        desc: 'The page of a website that interacts with an external API to provide dynamic responses to user queries.',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Autónomo',
+        desc: 'Freelance',
       },
       {
         icon: <FaCode />,
