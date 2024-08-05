@@ -263,27 +263,27 @@ export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: 'Webside Design',
+    title: 'Webside Design CDMX',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Webside',
+        desc: 'Main page of a website dedicated to promoting tourist destinations in CDMX,',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: '',
+        desc: 'Freelance',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Html, Css',
+        desc: 'Html, Css, JavaScript',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: '',
+        desc: 'Portfolio',
       },
     ],
   },
@@ -296,7 +296,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'E-commerce',
+        desc: 'E-commerce platform dedicated to providing artisans and independent artists with access to a digital platform to sell their products.',
       },
       {
         icon: <FiUser />,
@@ -306,7 +306,7 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Html, Css, Java Script, Java',
+        desc: 'Html, Css, Bootstrap, Java Script, Java, Spring Boot, MySql',
       },
       {
         icon: <FiExternalLink />,
@@ -319,27 +319,27 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'App Design',
+    title: 'Front-end App' ,
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'App',
+        desc: 'App "VigíaVial", this app is intended for cyclists and pedestrians, allowing them to report civic violations by motorists.',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: '',
+        desc: 'Team VigíaVial',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Figma',
+        desc: 'Figma, HTML, CSS, Java Script, React, Material UI',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: '',
+        desc: 'Portfolio',
       },
     ],
   },
@@ -347,27 +347,27 @@ export const portfolio = [
   {
     id: 4,
     img: Work4,
-    title: 'Notes Editing',
+    title: 'Notes Pages',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: '',
+        desc: 'Note system for the home page of a website. Integrating a news API to display data in cards, improving user experience.',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: '',
+        desc: 'Autónomo',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: '',
+        desc: 'HTML, CSS, React Js, Node Js, WordPress, Material UI, API',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: '',
+        desc: 'Portfolio',
       },
     ],
   },
@@ -375,11 +375,11 @@ export const portfolio = [
   {
     id: 5,
     img: Work5,
-    title: 'Notes Page',
+    title: 'Astral Chart Consultation Project ',
     details: [
       {
         title: 'Project : ',
-        desc: 'Website',
+        desc: 'Home page of a website specialized in astrological chart consultations.',
       },
       {
         title: 'Client : ',
@@ -399,27 +399,27 @@ export const portfolio = [
   {
     id: 6,
     img: Work6,
-    title: 'Graphic identity design',
+    title: 'Intuitive Interface',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Graphic identity design',
+        desc: 'The main page of a website that interacts with an external API to provide dynamic responses to user queries.',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'DRAFF',
+        desc: 'Autónomo',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Adobe Photoshop',
+        desc: 'HTML, CSS, Java Script, API',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: '',
+        desc: 'Portfolio',
       },
     ],
   },
