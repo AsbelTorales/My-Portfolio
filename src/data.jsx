@@ -389,7 +389,7 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Html, Css, Bootstrap, Java Script, Java, Spring Boot, MySql',
+        desc: 'Html, Css, Bootstrap, Java Script, Java, Spring Boot',
       },
       {
         icon: <FiExternalLink />,
@@ -445,7 +445,7 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'HTML, CSS, React Js, Node Js, WordPress, Material UI, API',
+        desc: 'HTML, CSS, React Js, Node Js, WordPress, Material UI',
       },
       {
         icon: <FiExternalLink />,
@@ -487,7 +487,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Dynamic API Response Page',
+        desc: 'Dynamic API Page',
       },
       {
         icon: <FiUser />,
@@ -497,7 +497,7 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'HTML, CSS, Java Script, API',
+        desc: 'HTML, CSS, Java Script',
       },
       {
         icon: <FiExternalLink />,
