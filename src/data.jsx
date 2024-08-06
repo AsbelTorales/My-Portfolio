@@ -106,7 +106,7 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '4+',
+    no: '2+',
     title: 'Years of <br /> Experience',
   },
 
@@ -126,7 +126,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '08/2029 - 02/2022',
     title: 'Full-stack Developer <span> Notes Pages Project </span>',
-    desc: 'I developed a notes system on the main page of a website.',
+    desc: 'I developed a notes system on a website front page using a news API. I used WordPress for content management, HTML and CSS for structure and design, React JS for components, Node JS for API requests, and Material UI for styling.',
   },
 
   {
@@ -144,7 +144,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '11/2023 - 01/2024',
     title: 'Front-end Developer <span> Webside Design CDMX </span>',
-    desc: 'I developed the main page of a website dedicated to promoting tourist destinations in Mexico City, improving the user experience.',
+    desc: 'I developed the homepage of a website promoting Mexico City tourist destinations. I used HTML for content structure, CSS for responsive design, JavaScript for interactivity, and Bootstrap for consistent design and accelerated development.',
   },
   
   {
@@ -153,7 +153,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '07/2023 - 12/2023',
     title: 'Front-end Developer <span> VigíaVial Project </span>',
-    desc: 'I developed the front-end of an intuitive and functional mobile application that allows cyclists and pedestrians to report violations quickly, improving safety and order on the roads.',
+    desc: 'I developed the front-end of a mobile application for cyclists and pedestrians to report violations, improving road safety. I structured the interface with HTML, designed responsive elements with CSS, added interactive logic with JavaScript and created reusable components with React.',
   },
 
   {
@@ -162,7 +162,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '04/2023 - 06/2023',
     title: 'Front-end Developer <span> Astral Chart Consultation Project </span>',
-    desc: 'I developed the main page of a website specialized in astrological chart consultations.',
+    desc: 'I developed the homepage of an astrological chart consultation website using HTML, CSS, JavaScript and Bootstrap. I included an interactive navigation bar and an intuitive form to calculate the astrological chart, processing the entered data with JavaScript.',
   },
 
   {
@@ -171,7 +171,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '01/2023 - 03/2023',
     title: 'Front-end Developer <span> Intuitive Interface Project for Quick Queries </span>',
-    desc: 'I developed the main page of a website that interacts with an external API to provide dynamic responses to user queries.',
+    desc: 'I developed the homepage of a website that uses an external API for dynamic queries. The fetchAnswer function sends requests to the API, displays the response, and clears it after 5 seconds by clicking a button. I used HTML, CSS, and JavaScript to create an intuitive and efficient interface.',
   },
 
 
@@ -208,7 +208,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2024',
     title: 'Essential React <span> LinkenIn Learning </span>',
-    desc: 'Create web applications with react',
+    desc: 'Create web applications with React',
   },
 
   {
@@ -217,7 +217,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2024',
     title: 'React JS <span> Udemy </span>',
-    desc: 'Create web applications with react',
+    desc: 'Create web applications with React',
   },
 
   {
@@ -252,7 +252,7 @@ export const resume = [
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2023',
-    title: 'AWS Discovery Day: Introducción a la nube y servicios de AWS <span> Agencia Digital de Innovación Pública </span>',
+    title: 'Introducción a la nube y servicios de AWS <span> Agencia Digital de Innovación Pública </span>',
     desc: 'Nube y servicios AWS',
   },
 
@@ -346,12 +346,12 @@ export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: 'Webside Design CDMX',
+    title: 'Webside Design',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Main page of a website dedicated to promoting tourist destinations in CDMX.',
+        desc: 'Webside Design CDMX',
       },
       {
         icon: <FiUser />,
@@ -379,7 +379,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'E-commerce platform.',
+        desc: 'E-commerce "Manos a la Obra"',
       },
       {
         icon: <FiUser />,
@@ -407,7 +407,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'App is intended for cyclists and pedestrians, allowing them to report civic violations.',
+        desc: 'VigíaVial App',
       },
       {
         icon: <FiUser />,
@@ -435,7 +435,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Note system for the home page of a website.',
+        desc: 'Website Note System',
       },
       {
         icon: <FiUser />,
@@ -458,11 +458,11 @@ export const portfolio = [
   {
     id: 5,
     img: Work5,
-    title: 'Astral Chart Consultation Project ',
+    title: 'Home Page',
     details: [
       {
         title: 'Project : ',
-        desc: 'Home page of a website specialized in astrological chart consultations.',
+        desc: 'Astral Chart Consultation',
       },
       {
         title: 'Client : ',
@@ -487,7 +487,7 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'The page of a website that interacts with an external API to provide dynamic responses to user queries.',
+        desc: 'Dynamic API Response Page',
       },
       {
         icon: <FiUser />,
